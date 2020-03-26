@@ -2,7 +2,7 @@
   "name": "adobe",
   "version": "0.0.1",
   "private": true,
-  "homepage":"https://chaitu215.github.io/Adobe-Assignment/",
+  "homepage":"http://chaitu215.github.io/Adobe-Assignment/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.2.0",

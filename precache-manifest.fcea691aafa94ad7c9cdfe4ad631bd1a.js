@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdad451b27e83186ddb495d5046ceb57",
+    "revision": "b155b5de316714ba59b682ecebdc1a10",
     "url": "/Adobe-Assignment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Adobe-Assignment/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "a9e7d209629f35eea7f5",
+    "revision": "e0d06622ba5a0ab4e8fb",
     "url": "/Adobe-Assignment/static/css/main.980ad389.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Adobe-Assignment/static/js/2.75d6141d.chunk.js"
   },
   {
-    "revision": "a9e7d209629f35eea7f5",
-    "url": "/Adobe-Assignment/static/js/main.5ad059de.chunk.js"
+    "revision": "e0d06622ba5a0ab4e8fb",
+    "url": "/Adobe-Assignment/static/js/main.d0c31ff5.chunk.js"
   },
   {
     "revision": "8790940775c5d44c7aa4",
     "url": "/Adobe-Assignment/static/js/runtime~main.cce9d1d5.js"
   },
   {
-    "revision": "d0f8f45c51bad9d5eedca9b8410cd5f3",
-    "url": "/Adobe-Assignment/static/media/star.d0f8f45c.svg"
+    "revision": "32535d5f33af000e182d71c1cd15ee00",
+    "url": "/Adobe-Assignment/static/media/star.32535d5f.jpg"
   }
 ]);

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dea7c30e4de6af63d91724b25e7c1fe4",
+    "revision": "e80e859738d3c491ead7eeb4cabbd97d",
     "url": "/Adobe-Assignment/index.html"
   },
   {
-    "revision": "c0b8fae77ba4ebc2e363",
-    "url": "/Adobe-Assignment/static/css/2.0624914a.chunk.css"
+    "revision": "26c2395c1c1b077ba3c0",
+    "url": "/Adobe-Assignment/static/css/2.86aa6515.chunk.css"
   },
   {
-    "revision": "4f0cf68df00ed275cdaf",
+    "revision": "a2c1232e169cc08f5172",
     "url": "/Adobe-Assignment/static/css/main.980ad389.chunk.css"
   },
   {
-    "revision": "c0b8fae77ba4ebc2e363",
-    "url": "/Adobe-Assignment/static/js/2.203d0594.chunk.js"
+    "revision": "26c2395c1c1b077ba3c0",
+    "url": "/Adobe-Assignment/static/js/2.2d673b14.chunk.js"
   },
   {
-    "revision": "4f0cf68df00ed275cdaf",
-    "url": "/Adobe-Assignment/static/js/main.d08efabb.chunk.js"
+    "revision": "a2c1232e169cc08f5172",
+    "url": "/Adobe-Assignment/static/js/main.37abc86b.chunk.js"
   },
   {
     "revision": "8790940775c5d44c7aa4",

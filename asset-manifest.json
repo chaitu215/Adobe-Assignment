@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Adobe-Assignment/static/css/main.980ad389.chunk.css",
-    "main.js": "/Adobe-Assignment/static/js/main.d08efabb.chunk.js",
-    "main.js.map": "/Adobe-Assignment/static/js/main.d08efabb.chunk.js.map",
+    "main.js": "/Adobe-Assignment/static/js/main.37abc86b.chunk.js",
+    "main.js.map": "/Adobe-Assignment/static/js/main.37abc86b.chunk.js.map",
     "runtime~main.js": "/Adobe-Assignment/static/js/runtime~main.cce9d1d5.js",
     "runtime~main.js.map": "/Adobe-Assignment/static/js/runtime~main.cce9d1d5.js.map",
-    "static/css/2.0624914a.chunk.css": "/Adobe-Assignment/static/css/2.0624914a.chunk.css",
-    "static/js/2.203d0594.chunk.js": "/Adobe-Assignment/static/js/2.203d0594.chunk.js",
-    "static/js/2.203d0594.chunk.js.map": "/Adobe-Assignment/static/js/2.203d0594.chunk.js.map",
+    "static/css/2.86aa6515.chunk.css": "/Adobe-Assignment/static/css/2.86aa6515.chunk.css",
+    "static/js/2.2d673b14.chunk.js": "/Adobe-Assignment/static/js/2.2d673b14.chunk.js",
+    "static/js/2.2d673b14.chunk.js.map": "/Adobe-Assignment/static/js/2.2d673b14.chunk.js.map",
     "index.html": "/Adobe-Assignment/index.html",
-    "precache-manifest.937d8b32f5147e17e0055b546dac9b40.js": "/Adobe-Assignment/precache-manifest.937d8b32f5147e17e0055b546dac9b40.js",
+    "precache-manifest.7cef38a0ed724b91461bd25a9c1e4d27.js": "/Adobe-Assignment/precache-manifest.7cef38a0ed724b91461bd25a9c1e4d27.js",
     "service-worker.js": "/Adobe-Assignment/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/Adobe-Assignment/static/css/2.0624914a.chunk.css.map",
+    "static/css/2.86aa6515.chunk.css.map": "/Adobe-Assignment/static/css/2.86aa6515.chunk.css.map",
     "static/css/main.980ad389.chunk.css.map": "/Adobe-Assignment/static/css/main.980ad389.chunk.css.map",
     "static/media/star.jpg": "/Adobe-Assignment/static/media/star.32535d5f.jpg"
   }
